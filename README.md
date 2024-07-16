@@ -10,4 +10,6 @@ Habilidades Interpessoais ,Inteligência Emocional ,Flexibilidade e Adaptabilida
 ### Hard Skills
 
 <div style = "display:inline_block;">
-<img src = "https://github.com/user-attachments/assets/83835645-5a83-4baf-b468-c8d672d16036"
+<img src = "https://github.com/user-attachments/assets/83835645-5a83-4baf-b468-c8d672d16036"/>
+<img src = ""/>
+<img src = ""/>
