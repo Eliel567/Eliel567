@@ -11,5 +11,7 @@ Habilidades Interpessoais ,Inteligência Emocional ,Flexibilidade e Adaptabilida
 
 <div style = "display:inline_block;">
 <img src = "https://github.com/user-attachments/assets/83835645-5a83-4baf-b468-c8d672d16036"/>
+<img src = "https://github.com/user-attachments/assets/bca84a6f-3024-43ca-9d60-7c10d99fef58"/>
 <img src = ""/>
-<img src = ""/>
+
+<div/>
